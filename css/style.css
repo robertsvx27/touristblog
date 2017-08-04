@@ -1,0 +1,53 @@
+nav{
+    height: 100%;
+}
+
+.header-back{
+    background: #F0B775;
+}
+.contenedor{
+     background: #FD5959;
+}
+.cuerpo-back{
+    background: #FD5959;
+    padding-top: 8px;
+}
+
+.galeria{
+    border: 0.6rem solid #2E94B9;
+    border-radius: 5px;
+}
+
+.btn{
+    background: #2E94B9;
+}
+
+.perfil {
+    background: #2E94B9;
+}
+.post {
+    text-align: justify;
+}
+
+.slogan{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.comentario{
+    border: 1px solid #2E94B9;
+    padding-bottom: 5px;
+}
+
+.titulo{
+    font-variant: small-caps;
+}
+
+@media all and (max-width: 992px){
+	.off{ display: none; }
+    .direccion{ text-align: center;}
+}
+
+
+
+        
