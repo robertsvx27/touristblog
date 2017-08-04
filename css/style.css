@@ -3,13 +3,13 @@ nav{
 }
 
 .header-back{
-    background: #F0B775;
+    background: #00daff;
 }
 .contenedor{
-     background: #FD5959;
+     background: #ff2500;
 }
 .cuerpo-back{
-    background: #FD5959;
+    background:#ff2500;
     padding-top: 8px;
 }
 
@@ -19,11 +19,11 @@ nav{
 }
 
 .btn{
-    background: #2E94B9;
+    background:#00ff25;
 }
 
 .perfil {
-    background: #2E94B9;
+    background: #00ff25;
 }
 .post {
     text-align: justify;
